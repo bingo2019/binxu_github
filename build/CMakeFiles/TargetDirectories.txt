@@ -1,3 +1,0 @@
-/home/binxu/workspace/cmake/example1/build/CMakeFiles/rebuild_cache.dir
-/home/binxu/workspace/cmake/example1/build/CMakeFiles/edit_cache.dir
-/home/binxu/workspace/cmake/example1/build/CMakeFiles/main.dir
