@@ -12,4 +12,4 @@ if [ "$2" ];then
    git push origin master
 else
    echo "git success"
-
+fi
